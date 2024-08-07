@@ -1,0 +1,13 @@
+{
+  "routes": [
+    "/aboutPage",
+    "/banktellerPage",
+    "/dietappPage",
+    "/futurePage",
+    "/homePage",
+    "/snakePage",
+    "/sscPage",
+    "/tictactoePage",
+    "/webdevPage"
+  ]
+}
